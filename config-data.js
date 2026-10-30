@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Hospedaje Palmeritas Beach",
+    "short_name": "Hospedaje Palmeritas Beach",
+    "tagline": "Hospedaje Palmeritas Beach · Perú",
+    "description": "Hospedaje Palmeritas Beach, tu alojamiento ideal en Perú.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Perú · VWWX+69R",
+    "title_line1": "Sentite como en casa en",
+    "title_em": "Hospedaje Palmeritas Beach",
+    "title_line2": "",
+    "subtitle": "Hospedaje cómodo en Perú para viajeros como vos."
+  },
+  "location": {
+    "address": "VWWX+69R, Prol. Arequipa, Máncora 20850, Perú",
+    "district": "Perú",
+    "city": "Perú",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "beach",
+    "map_query": "VWWX+69R, Prol. Arequipa, Máncora 20850, Perú, Perú",
+    "map_embed": "https://maps.google.com/maps?q=VWWX%2B69R%2C+Prol.+Arequipa%2C+M%C3%A1ncora+20850%2C+Per%C3%BA%2C+Per%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Perú. Cerca de los mejores puntos turísticos.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/54951942249261",
+    "phone": "+54951942249261",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Hospedaje+Palmeritas+Beach/data=!4m10!3m9!1s0x9036913598d2a473:0x9553a0dbf10d38f7!5m2!4m1!1i2!8m2!3d-4.1043756!4d-81.0516204!16s%2Fg%2F11gglqdccv!19sChIJc6TSmDWRNpAR9zgN8dugU5U?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Hospedaje+Palmeritas+Beach/data=!4m10!3m9!1s0x9036913598d2a473:0x9553a0dbf10d38f7!5m2!4m1!1i2!8m2!3d-4.1043756!4d-81.0516204!16s%2Fg%2F11gglqdccv!19sChIJc6TSmDWRNpAR9zgN8dugU5U?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Nuestra historia",
+    "title": "La historia de Hospedaje Palmeritas Beach.",
+    "paragraphs": [
+      "Vení a Hospedaje Palmeritas Beach y descubrí Perú desde un hostel con onda. Tenemos pileta, parrilla, cocina equipada, WiFi y todo lo que necesitás para sentirte en casa."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Consultas al instante por WhatsApp",
+    "El precio que ves es el que pagás",
+    "Te recomendamos los mejores lugares de la zona"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Habitaciones copadas",
+      "description": "Limpias, frescas, con todo lo básico para estar bien.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Internet gratis",
+      "description": "Para mandar fotos a la familia y no pierdas contacto.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Bien situados",
+      "description": "Todo lo turístico queda cerca, a pie.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    },
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    },
+    {
+      "author": "Valentina P.",
+      "rating": 5,
+      "text": "El lugar es hermoso y está cerca de todo. Los anfitriones nos ayudaron con cada consulta."
+    },
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Cómo reservo?",
+      "answer": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+    },
+    {
+      "question": "¿Aceptan mascotas?",
+      "answer": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+    },
+    {
+      "question": "¿A qué hora llego y me voy?",
+      "answer": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+    },
+    {
+      "question": "¿Se puede cancelar la reserva?",
+      "answer": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+    },
+    {
+      "question": "¿Qué se puede hacer en la zona?",
+      "answer": "La zona es ideal para playa, paseos costeros y buena comida. Te recomendamos los mejores lugares."
+    }
+  ],
+  "footer": {
+    "description": "Hospedaje Palmeritas Beach",
+    "copyright": "© 2026 Hospedaje Palmeritas Beach. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Hospedaje Palmeritas Beach",
+        "short_name": "Hospedaje Palmeritas Beach",
+        "tagline": "Hospedaje Palmeritas Beach · Accommodation",
+        "description": "Hospedaje Palmeritas Beach is your Perú hideaway after a day of exploring.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Perú · VWWX+69R",
+        "title_line1": "Discover",
+        "title_em": "Hospedaje Palmeritas Beach",
+        "title_line2": "in Perú",
+        "subtitle": "Rest, explore and experience Perú from Hospedaje Palmeritas Beach."
+      },
+      "about": {
+        "eyebrow": "Who we are",
+        "title": "Hospedaje Palmeritas Beach, everything you need to know.",
+        "paragraphs": [
+          "Hospedaje Palmeritas Beach is your base in Perú. Pool, BBQ, WiFi, kitchen and an ideal location to explore everything. We're a family hostel with all the vibes you need to travel easy."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Perú. The ideal location for your trip."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Can I leave my luggage before check-in?",
+          "answer": "Of course! Drop your bags and come back later. We'll keep them safe."
+        },
+        {
+          "question": "Is there air conditioning?",
+          "answer": "Yes, you'll stay cool in summer no problem."
+        },
+        {
+          "question": "Is there a pool?",
+          "answer": "Yes! In summer it's the best spot to cool off after sightseeing."
+        },
+        {
+          "question": "Can I pay by card?",
+          "answer": "Ask us, we have several payment options to make it easy for you."
+        },
+        {
+          "question": "What is there to do in the area?",
+          "answer": "The area is great for the beach, seaside walks and good food. We'll share our favorite spots."
+        }
+      ],
+      "trust_bar": [
+        "WhatsApp for everything",
+        "Real prices, no fine print",
+        "Travelers from all over have stayed with us"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "Anna M.",
+          "rating": 5,
+          "text": "Beautiful place, close to everything. The hosts helped us with everything we needed."
+        },
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "James W.",
+          "rating": 5,
+          "text": "Traveling with friends and couldn't have picked a better place. Clean, comfy and welcoming."
+        }
+      ],
+      "footer": {
+        "description": "Hospedaje Palmeritas Beach",
+        "copyright": "© 2026 Hospedaje Palmeritas Beach. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Hospedaje Palmeritas Beach",
+        "description": "Habitaciones cómodas y buena onda en Hospedaje Palmeritas Beach, Perú.",
+        "url": "",
+        "telephone": "+54951942249261",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Hospedaje+Palmeritas+Beach/data=!4m10!3m9!1s0x9036913598d2a473:0x9553a0dbf10d38f7!5m2!4m1!1i2!8m2!3d-4.1043756!4d-81.0516204!16s%2Fg%2F11gglqdccv!19sChIJc6TSmDWRNpAR9zgN8dugU5U?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "VWWX+69R, Prol. Arequipa, Máncora 20850, Perú",
+          "addressLocality": "Perú",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Habitaciones copadas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Internet gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Bien situados",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cómo reservo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Aceptan mascotas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿A qué hora llego y me voy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede cancelar la reserva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué se puede hacer en la zona?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La zona es ideal para playa, paseos costeros y buena comida. Te recomendamos los mejores lugares."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};

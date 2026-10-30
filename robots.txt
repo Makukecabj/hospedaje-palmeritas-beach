@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hospedaje-palmeritas-beach.vercel.app/sitemap.xml
